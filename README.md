@@ -1,4 +1,3 @@
-# guess-the-number-angular2
-Angular 2 app - Guess the number game
+#Assesment
+Angular 2 app - Guess the number
 
-[Live demo](http://leilap.github.io/guess-the-number-angular2/)
